@@ -12,7 +12,7 @@ ResumeReady is an AI-powered web application made using django, HTML, CSS and bo
 - **Backend:** Python, Django
 - **Frontend:** HTML, CSS, Bootstrap
 - **Database:** SQLite (Default django database)
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, google-gemini-2.5-flash
 
 ## Installation
 - Clone the repository
